@@ -1,0 +1,41 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "a library application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "DEBUG=app nodemon app.js",
+    "lint": "eslint app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "chalk": "1.1.3",
+    "cors": "^2.8.4",
+    "debug": "^3.1.0",
+    "ejs": "^2.6.1",
+    "express": "4.15.2",
+    "jquery": "^3.3.1",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.4",
+    "pug": "^2.0.3",
+    "xml-js": "^1.6.4",
+    "xml2json": "^0.11.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  },
+  "nodemonConfig": {
+    "restartable": "rs",
+    "ignore": "[node_modules/**/node_modules]",
+    "delay": "2500",
+    "env": {
+      "NODE_ENV": "development",
+      "PORT": 4000
+    }
+  }
+}
