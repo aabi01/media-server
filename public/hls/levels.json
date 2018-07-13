@@ -1,0 +1,1999 @@
+{
+  "type": "VOD",
+  "version": 3,
+  "url": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+  "fragments": [
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 0,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 0,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_462/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 10,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 1,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_463/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 20,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 2,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_464/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 30,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 3,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_465/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 40,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 4,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_466/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 50,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 5,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_467/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 60,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 6,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_468/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "9.950"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 9.95,
+      "title": null,
+      "type": "main",
+      "start": 70,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 7,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_469/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.050"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10.05,
+      "title": null,
+      "type": "main",
+      "start": 79.95,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 8,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_470/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 90,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 9,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_471/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 100,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 10,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_472/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 110,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 11,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_473/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 120,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 12,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_474/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 130,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 13,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_475/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 140,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 14,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_476/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 150,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 15,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_477/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 160,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 16,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_478/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 170,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 17,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_479/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 180,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 18,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_480/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 190,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 19,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_481/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 200,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 20,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_482/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 210,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 21,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_483/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 220,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 22,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_484/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 230,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 23,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_485/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 240,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 24,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_486/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 250,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 25,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_487/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 260,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 26,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_488/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 270,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 27,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_489/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 280,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 28,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_490/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "9.950"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 9.95,
+      "title": null,
+      "type": "main",
+      "start": 290,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 29,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_491/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.050"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10.05,
+      "title": null,
+      "type": "main",
+      "start": 299.95,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 30,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_492/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 310,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 31,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_493/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 320,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 32,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_494/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 330,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 33,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_495/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 340,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 34,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_496/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 350,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 35,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_497/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 360,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 36,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_498/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 370,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 37,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_499/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 380,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 38,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_500/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 390,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 39,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_501/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 400,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 40,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_502/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 410,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 41,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_503/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 420,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 42,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_504/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "9.950"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 9.95,
+      "title": null,
+      "type": "main",
+      "start": 430,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 43,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_505/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.050"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10.05,
+      "title": null,
+      "type": "main",
+      "start": 439.95,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 44,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_506/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 450,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 45,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_507/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 460,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 46,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_508/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 470,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 47,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_509/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 480,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 48,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_510/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 490,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 49,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_511/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 500,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 50,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_512/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 510,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 51,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_513/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 520,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 52,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_514/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 530,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 53,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_515/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 540,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 54,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_516/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 550,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 55,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_517/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 560,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 56,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_518/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 570,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 57,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_519/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 580,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 58,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_520/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 590,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 59,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_521/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 600,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 60,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_522/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 610,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 61,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_523/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 10,
+      "title": null,
+      "type": "main",
+      "start": 620,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 62,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_524/193039199_mp4_h264_aac_hd_7.ts"
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "tagList": [
+        [
+          "INF",
+          "4.584"
+        ]
+      ],
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "duration": 4.584,
+      "title": null,
+      "type": "main",
+      "start": 630,
+      "levelkey": {
+        "method": null,
+        "key": null,
+        "iv": null,
+        "_uri": null
+      },
+      "sn": 63,
+      "level": 3,
+      "cc": 0,
+      "urlId": 0,
+      "baseurl": "https://video-dev.github.io/streams/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "relurl": "url_525/193039199_mp4_h264_aac_hd_7.ts"
+    }
+  ],
+  "live": false,
+  "startSN": 0,
+  "targetduration": 11,
+  "totalduration": 634.584,
+  "averagetargetduration": 9.915375,
+  "endSN": 63,
+  "startCC": 0,
+  "endCC": 0
+}
