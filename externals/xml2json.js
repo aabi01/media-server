@@ -614,5 +614,7 @@ function X2JS(config) {
 // export default X2JS;
 module.exports = {
     X2JS,
-    json2xml_str: X2JS.json2xml_str
+    json2xml_str: X2JS.json2xml_str,
+    xml_str2json: X2JS.xml_str2json,
+    xml2json: X2JS.xml2json,
 }

@@ -5,8 +5,8 @@ const morgan = require('morgan');
 const path = require('path');
 const cors = require('cors');
 const fs = require('fs');
-const xml2jsonPackage = require('xml2json');
-const xmlJS = require('xml-js');
+const xml2json = require('xml2json');
+const commander = require('commander');
 
 const config = {
   escapeMode: false,
@@ -38,14 +38,23 @@ app.use('/js', express.static(path.join(__dirname, '/node_modules/jquery/dist'))
 app.set('views', './src/views');
 app.set('view engine', 'ejs');
 
-app.get('/', (req, res) => {
-  res.render(
-    'index',
-    {
-      title: 'Media Server'
-    }
-  );
-});
+
+// Command Line App
+commander
+  .version('0.1.0')
+  .option('-p, --peppers', 'Add peppers')
+  .option('-P, --pineapple', 'Add pineapple')
+  .option('-b, --bbq-sauce', 'Add bbq sauce')
+  .option('-c, --cheese [type]', 'Add the specified type of cheese [marble]', 'marble')
+  .parse(process.argv);
+
+console.log('you ordered a pizza with:');
+if (commander.peppers) console.log('  - peppers');
+if (commander.pineapple) console.log('  - pineapple');
+if (commander.bbqSauce) console.log('  - bbq');
+console.log('  - %s cheese', commander.cheese);
+
+
 
 /**
  * Wildcard Route
@@ -53,12 +62,10 @@ app.get('/', (req, res) => {
 app.get(/.*.json$/, (req, res) => {
   const orginalUrl = req.originalUrl;
   const FileName = path.parse(orginalUrl).name + '.mpd';
-
   // Get MPD File
   const MPDFilePath = path.join(__dirname, '/public/video/', FileName);
-
   fs.readFile(MPDFilePath, (err, data) => {
-    const jsonObj = xml2jsonPackage.toJson(data);
+    const jsonObj = xml2json.toJson(data);
     res.send(jsonObj);
   });
 
